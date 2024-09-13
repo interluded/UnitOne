@@ -10,8 +10,8 @@ public class RandomDraw {
 
         System.out.println("Enter lower bound: ");
         int b = sc.nextInt();
-        double random = Math.random() * a + b;
-        System.out.println(random);
+        double random = (Math.random() * a) + b;
+        System.out.println((int)random);
     }
 
 }
