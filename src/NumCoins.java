@@ -17,6 +17,4 @@ public class NumCoins {
        System.out.println("# Nickles: " + nickles);
        System.out.println("# Pennies: " + pennies);
    }
-
-
 }
