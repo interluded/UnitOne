@@ -9,5 +9,6 @@ public class Initals {
         System.out.print(name.charAt(x + 1) + ".");
         int y = name.indexOf(" ", x + 1);
         System.out.print(name.charAt(y + 1) + ".");
+
     }
 }
